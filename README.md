@@ -1,2 +1,2 @@
-# 45-days-challenge
-45 days to hackathon
+# 30-days-challenge
+30 days to hackathon
